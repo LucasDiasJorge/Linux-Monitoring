@@ -21,7 +21,7 @@ int main(){
 
     fclose(fp);
 
-    printf("Frequencia = %.2f", frequency);
+    printf("Frequência = %.3f MHz\n", frequency);
 
     return 0;
 
